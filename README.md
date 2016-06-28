@@ -27,7 +27,7 @@ dogfooding, check the makefile!
 If you have Go installed, you can just do:
 
 ```sh
-go get github.com/aktau/github-release
+go get github.com/base2solutions/github-release
 ```
 
 This will automatically download, compile and install the app.
